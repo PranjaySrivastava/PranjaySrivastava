@@ -18,7 +18,8 @@
       <a href="https://linkedin.com/in/pranjay-srivastava" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
       <a href="https://x.com/Pranjay178092" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
       <a href="https://github.com/PranjaySrivastava" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-      <a href="https://github.com/PranjaySrivastava/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://pranjay-3d-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/3D_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="3D Portfolio" /></a>
+      <a href="mailto:pranjaySrivastava51@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
     </td>
   </tr>
 </table>
@@ -84,6 +85,7 @@ party_traits: [Hackathon Hustler, Open Source Explorer, Retro Gamer]
 | **Voice-Enabled RAG Model** | `TypeScript`, `Python`, `Vector DB`, `LangChain` | Conversational RAG system querying private knowledge bases through natural voice commands. | [Source Code](https://github.com/PranjaySrivastava/voice_enabled_RAG_Model) |
 | **CodeTrace** | `React`, `JavaScript`, `Tailwind` | Developer analytics dashboard tracking problem-solving journeys and identifying algorithmic weak spots. | [Source Code](https://github.com/PranjaySrivastava/codetrace) |
 | **HH Goa Builder ID Generator** | `JavaScript`, `Canvas API`, `CSS3` | Client-side production generator creating official HH Goa 2026 PFP frames & builder credentials with instant X export. | [Source Code](https://github.com/PranjaySrivastava/HH-Goa-2026-Frame-ID-Card-Generator) |
+| **3D Interactive Portfolio** | `Three.js`, `React`, `WebGL` | Immersive 3D developer portfolio showcasing interactive scenes, skills, and experience. | [Live Site](https://pranjay-3d-portfolio.vercel.app/) |
 | **FakeBusters** | `Python`, `Deep Learning`, `Computer Vision` | Deepfake detection engine analyzing multimedia streams to detect AI-generated synthetic manipulations. | [Source Code](https://github.com/PranjaySrivastava/FakeBusters) |
 
 ---
@@ -130,8 +132,8 @@ party_traits: [Hackathon Hustler, Open Source Explorer, Retro Gamer]
 <a href="https://x.com/Pranjay178092" target="_blank">
   <img src="https://img.shields.io/badge/X-Follow%20@Pranjay178092-black?style=flat-square&logo=x" alt="X" />
 </a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat-square&logo=gmail" alt="Email" />
+<a href="mailto:pranjaySrivastava51@gmail.com">
+  <img src="https://img.shields.io/badge/Email-pranjaySrivastava51@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
 </a>
 
 </div>
