@@ -1,0 +1,137 @@
+<div align="center">
+
+# 👾 Pranjay's Dev Arcade 🕹️
+### Full-Stack Developer & Applied AI Enthusiast 🚀
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="260" valign="middle">
+      <img src="./assets/pranjay-portrait.png" width="220" alt="Pranjay Srivastava" style="border-radius: 12px; border: 2px solid #38bdf8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.35);" />
+      <br/>
+      <sub><b>PRANJAY SRIVASTAVA // DEV</b></sub>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Welcome+to+my+Dev+Arcade;Building+Scalable+Full-Stack+Web+Apps;Engineering+Voice-Enabled+AI+%26+RAG+Systems;Turning+Real-World+Problems+into+Code;Continuous+Learner+%26+Open-Source+Explorer" alt="Typing SVG" />
+      <br/><br/>
+      <a href="https://linkedin.com/in/pranjay-srivastava" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="https://x.com/Pranjay178092" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+      <a href="https://github.com/PranjaySrivastava" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+      <a href="https://github.com/PranjaySrivastava/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🎮 Arcade Zone: Pac-Man Contribution Eater
+
+<div align="center">
+  <img src="./assets/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph Game" width="100%" />
+  <br/>
+  <sub>🎮 <i>Pac-Man chomping through real GitHub contribution squares while evading Blinky & Pinky!</i></sub>
+</div>
+
+---
+
+### 💫 Player Info & Mission Log
+
+```yaml
+player_tag: Pranjay Srivastava
+class: Full-Stack Engineer & AI Builder
+perks:
+  - Scalable Web Architecture & Dynamic UI/UX
+  - Voice-Activated Agents & RAG Vector Pipelines
+  - Algorithmic Problem Solving & Data Structures
+current_quest: Engineering AI Teaching Assistant & Real-Time RAG Systems
+party_traits: [Hackathon Hustler, Open Source Explorer, Retro Gamer]
+```
+
+---
+
+### 🛠️ Tech Stack & Inventory
+
+<p align="center"><b>Core Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css" alt="Languages" />
+</p>
+
+<p align="center"><b>Frontend & Backend Frameworks</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,django,bun" alt="Frameworks" />
+</p>
+
+<p align="center"><b>AI / Machine Learning & Data</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda" alt="AI & ML" />
+</p>
+
+<p align="center"><b>Databases, Cloud & DevOps</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,docker,gcp,vercel,netlify,git,github,postman" alt="Cloud & Tools" />
+</p>
+
+---
+
+### 🚀 Featured Boss Raids (Flagship Projects)
+
+| Project | Tech Stack | Mission Highlights | Code |
+| :--- | :--- | :--- | :--- |
+| **AI Teaching Assistant** | `React`, `Node.js`, `OpenAI`, `Web Speech API` | Interactive DSA learning platform with voice/text explanations, visual code animations, and targeted follow-ups. | [Source Code](https://github.com/PranjaySrivastava/AI-teaching-assistant) |
+| **Voice-Enabled RAG Model** | `TypeScript`, `Python`, `Vector DB`, `LangChain` | Conversational RAG system querying private knowledge bases through natural voice commands. | [Source Code](https://github.com/PranjaySrivastava/voice_enabled_RAG_Model) |
+| **CodeTrace** | `React`, `JavaScript`, `Tailwind` | Developer analytics dashboard tracking problem-solving journeys and identifying algorithmic weak spots. | [Source Code](https://github.com/PranjaySrivastava/codetrace) |
+| **HH Goa Builder ID Generator** | `JavaScript`, `Canvas API`, `CSS3` | Client-side production generator creating official HH Goa 2026 PFP frames & builder credentials with instant X export. | [Source Code](https://github.com/PranjaySrivastava/HH-Goa-2026-Frame-ID-Card-Generator) |
+| **FakeBusters** | `Python`, `Deep Learning`, `Computer Vision` | Deepfake detection engine analyzing multimedia streams to detect AI-generated synthetic manipulations. | [Source Code](https://github.com/PranjaySrivastava/FakeBusters) |
+
+---
+
+### 📊 Arcade Leaderboard & Stats
+
+<div align="center">
+
+<img src="./assets/github-stats.svg" alt="Pranjay's GitHub Stats" height="175" />
+<img src="./assets/top-langs.svg" alt="Top Languages" height="175" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=PranjaySrivastava&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="./assets/activity-graph.svg" alt="Activity Graph" width="95%" />
+
+</div>
+
+---
+
+### 👾 Pokémon Companion & Profile Views
+
+<div align="center">
+
+<p>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="Gengar" height="60" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" alt="Pikachu" height="60" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" alt="Charizard" height="60" />
+</p>
+
+<!-- Your Original Pokémon Theme View Counter -->
+<img src="https://count.getloli.com/@:PranjaySrivastava?theme=booru-vp&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="profile views counter" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/pranjay-srivastava" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://x.com/Pranjay178092" target="_blank">
+  <img src="https://img.shields.io/badge/X-Follow%20@Pranjay178092-black?style=flat-square&logo=x" alt="X" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat-square&logo=gmail" alt="Email" />
+</a>
+
+</div>

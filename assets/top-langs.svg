@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="195" viewBox="0 0 350 195" fill="none">
+  <style>
+    .header {
+      font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #70a5fd;
+    }
+    .lang-name {
+      font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #c0caf5;
+    }
+    .card-bg {
+      fill: #1a1b26;
+      stroke: #24283b;
+      stroke-width: 1px;
+      rx: 6px;
+    }
+  </style>
+
+  <rect width="350" height="195" class="card-bg" />
+
+  <g transform="translate(25, 35)">
+    <text x="0" y="0" class="header">Most Used Languages</text>
+  </g>
+
+  <!-- Progress Bar (Total width: 300) -->
+  <g transform="translate(25, 55)">
+    <!-- JavaScript: 50% = 150px -->
+    <rect x="0" y="0" width="150" height="8" rx="4" fill="#f1e05a" />
+    <!-- Python: 25% = 75px -->
+    <rect x="150" y="0" width="75" height="8" fill="#3572A5" />
+    <!-- HTML: 15% = 45px -->
+    <rect x="225" y="0" width="45" height="8" fill="#e34c26" />
+    <!-- TypeScript: 5% = 15px -->
+    <rect x="270" y="0" width="15" height="8" fill="#3178c6" />
+    <!-- CSS: 5% = 15px -->
+    <rect x="285" y="0" width="15" height="8" rx="4" fill="#563d7c" />
+  </g>
+
+  <!-- Legend 2 columns -->
+  <g transform="translate(25, 85)">
+    <!-- Column 1 -->
+    <!-- JavaScript -->
+    <g transform="translate(0, 0)">
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <text x="18" y="10" class="lang-name">JavaScript 50.0%</text>
+    </g>
+    <!-- Python -->
+    <g transform="translate(0, 24)">
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <text x="18" y="10" class="lang-name">Python 25.0%</text>
+    </g>
+    <!-- HTML -->
+    <g transform="translate(0, 48)">
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <text x="18" y="10" class="lang-name">HTML 15.0%</text>
+    </g>
+
+    <!-- Column 2 -->
+    <!-- TypeScript -->
+    <g transform="translate(150, 0)">
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <text x="18" y="10" class="lang-name">TypeScript 5.0%</text>
+    </g>
+    <!-- CSS -->
+    <g transform="translate(150, 24)">
+      <circle cx="5" cy="6" r="5" fill="#563d7c" />
+      <text x="18" y="10" class="lang-name">CSS 5.0%</text>
+    </g>
+  </g>
+</svg>
