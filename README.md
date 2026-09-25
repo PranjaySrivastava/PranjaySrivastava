@@ -66,16 +66,13 @@ party_traits:
 
 ### 🛠️ Tech Stack & Inventory
 
-<p align="center"><b>Generative AI & Agentic Frameworks</b></p>
+<p align="center"><b>Generative AI, Voice AI & Agentic Workflows</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
-  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/RAG_%26_Vector_Search-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG & Vectors" />
+  <img src="https://img.shields.io/badge/Web_Speech_API-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Speech API" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 <p align="center"><b>Core Languages</b></p>
@@ -83,19 +80,24 @@ party_traits:
   <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css" alt="Languages" />
 </p>
 
-<p align="center"><b>Frontend & Backend Frameworks</b></p>
+<p align="center"><b>Frontend, 3D & UI</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,django,bun" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,bootstrap" alt="Frontend & 3D" />
 </p>
 
-<p align="center"><b>AI / Machine Learning & Data</b></p>
+<p align="center"><b>Backend & APIs</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda" alt="AI & ML" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" alt="Backend & APIs" />
 </p>
 
-<p align="center"><b>Databases, Cloud & DevOps</b></p>
+<p align="center"><b>AI, Deep Learning & Computer Vision</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,docker,gcp,vercel,netlify,git,github,postman" alt="Cloud & Tools" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="AI & Computer Vision" />
+</p>
+
+<p align="center"><b>Databases, Cloud & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,vercel,git,github,postman" alt="Cloud & Tools" />
 </p>
 
 ---
