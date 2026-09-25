@@ -69,6 +69,7 @@ party_traits:
 <p align="center"><b>Generative AI, Voice AI & Agentic Workflows</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/RAG_%26_Vector_Search-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG & Vectors" />
   <img src="https://img.shields.io/badge/Web_Speech_API-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Speech API" />
@@ -93,6 +94,16 @@ party_traits:
 <p align="center"><b>AI, Deep Learning & Computer Vision</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="AI & Computer Vision" />
+</p>
+
+<p align="center"><b>Cybersecurity & Ethical Hacking Tools</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-004D73?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-136B99?style=for-the-badge&logo=kali&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
 </p>
 
 <p align="center"><b>Databases, Cloud & Tools</b></p>
