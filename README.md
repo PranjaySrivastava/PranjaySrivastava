@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👾 Pranjay's Dev Arcade 🕹️
-### Full-Stack Developer & Applied AI Enthusiast 🚀
+### GenAI & Agentic AI Engineer | Cybersecurity Builder 🤖🛡️
 
 <br/>
 
@@ -13,7 +13,7 @@
       <sub><b>PRANJAY SRIVASTAVA // DEV</b></sub>
     </td>
     <td align="center" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Welcome+to+my+Dev+Arcade;Building+Scalable+Full-Stack+Web+Apps;Engineering+Voice-Enabled+AI+%26+RAG+Systems;Turning+Real-World+Problems+into+Code;Continuous+Learner+%26+Open-Source+Explorer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Welcome+to+my+Dev+Arcade;Building+Autonomous+Agentic+AI+Workflows;Engineering+GenAI+%26+Advanced+RAG+Systems;Exploring+AI+%C3%97+Cybersecurity;Continuous+Learner+%26+Open-Source+Builder" alt="Typing SVG" />
       <br/><br/>
       <a href="https://linkedin.com/in/pranjay-srivastava" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
       <a href="https://x.com/Pranjay178092" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -42,18 +42,41 @@
 
 ```yaml
 player_tag: Pranjay Srivastava
-class: Full-Stack Engineer & AI Builder
+
+class: GenAI & Agentic Systems Engineer | Cybersecurity Builder
+
 perks:
-  - Scalable Web Architecture & Dynamic UI/UX
-  - Voice-Activated Agents & RAG Vector Pipelines
+  - Generative AI Architectures, LLMs & Multi-Agent Orchestration
+  - Autonomous Agentic Workflows & Tool-Augmented RAG Pipelines
+  - Full-Stack Development & Scalable Web Architecture
+  - Cybersecurity, Ethical Hacking & Secure Systems Engineering
   - Algorithmic Problem Solving & Data Structures
-current_quest: Engineering AI Teaching Assistant & Real-Time RAG Systems
-party_traits: [Hackathon Hustler, Open Source Explorer, Retro Gamer]
+
+current_quest: Engineering Autonomous Agentic Systems & Exploring GenAI × Cybersecurity
+
+party_traits:
+  - Hackathon Hustler
+  - Agentic AI Architect
+  - Cybersecurity Enthusiast
+  - Open Source Builder
+  - Problem Solver
 ```
 
 ---
 
 ### 🛠️ Tech Stack & Inventory
+
+<p align="center"><b>Generative AI & Agentic Frameworks</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
 
 <p align="center"><b>Core Languages</b></p>
 <p align="center">
