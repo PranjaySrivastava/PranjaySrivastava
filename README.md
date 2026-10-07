@@ -16,7 +16,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Welcome+to+my+Dev+Arcade;Building+Autonomous+Agentic+AI+Workflows;Engineering+GenAI+%26+Advanced+RAG+Systems;Exploring+AI+%C3%97+Cybersecurity;Continuous+Learner+%26+Open-Source+Builder" alt="Typing SVG" />
       <br/><br/>
       <a href="https://linkedin.com/in/pranjay-srivastava" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-      <a href="https://x.com/Pranjay178092" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+      <a href="https://x.com/PranjaySri45" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
       <a href="https://github.com/PranjaySrivastava" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
       <a href="https://pranjay-3d-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/3D_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="3D Portfolio" /></a>
       <a href="mailto:pranjaySrivastava51@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -186,8 +186,8 @@ party_traits:
 <a href="https://linkedin.com/in/pranjay-srivastava" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://x.com/Pranjay178092" target="_blank">
-  <img src="https://img.shields.io/badge/X-Follow%20@Pranjay178092-black?style=flat-square&logo=x" alt="X" />
+<a href="https://x.com/PranjaySri45" target="_blank">
+  <img src="https://img.shields.io/badge/X-Follow%20@PranjaySri45-black?style=flat-square&logo=x" alt="X" />
 </a>
 <a href="mailto:pranjaySrivastava51@gmail.com">
   <img src="https://img.shields.io/badge/Email-pranjaySrivastava51@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
